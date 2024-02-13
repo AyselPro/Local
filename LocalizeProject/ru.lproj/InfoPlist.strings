@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  LocalizeProject
+
+ Created by Aysel on 12.02.2024.
+  
+*/
+
+
+"CFBundleName" = "Локализация";
+"NSLocationWhenInUseUsageDescription" = "Предоставьте приложению доступ к вашей геолокации";

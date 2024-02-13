@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+ Navigation_Aysel
+
+ Created by Aysel on 12.02.2024.
+  
+*/
+
+
+"CFBundleName" = "Localization";
+"NSLocationWhenInUseUsageDescription" = "Allow access to your location";

@@ -1,0 +1,11 @@
+/*
+  Localize.strings
+  LocalizeProgect
+
+ Created by Aysel on 12.02.2024.
+  
+*/
+
+"Date" = "Дата";
+"Distance" = "Расстояние";
+"weatherKey" = "Погода";
